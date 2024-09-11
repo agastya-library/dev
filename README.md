@@ -6,5 +6,7 @@ As the local laptop may be of very less configuration
 2. HOw to create your own dev environment
 3. terraform scripts to generate the resources
 4. Deploymnet of schedulers to destroy all resoruces created.
+5. commit and build code
+6. deploy in environment
 
    
